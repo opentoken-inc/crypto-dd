@@ -2,8 +2,12 @@ backports.functools-lru-cache==1.5
 cycler==0.10.0
 matplotlib==2.1.2
 numpy==1.14.0
+pandas==0.22.0
+patsy==0.5.0
 pyparsing==2.2.0
 python-dateutil==2.6.1
 pytz==2018.3
+scipy==1.0.0
 six==1.11.0
+statsmodels==0.8.0
 subprocess32==3.2.7
